@@ -1,0 +1,11 @@
+rebase demo - added something in master, not in feature-1
+$ git log --oneline --all --graph
+* e577207 (HEAD -> master) master-1
+| * bd0aead (feature-1) feature-1-2
+| * ec4ae02 feature-1-1
+|/
+* 6c408cd (origin/master) 3
+* e2a0aec 2
+* e07c1bc 1
+* 6818e0d second
+* b9cd1e1 first
